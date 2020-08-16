@@ -2,9 +2,9 @@
 
 This is a project that entails building 2 models;
 
-i.) A K-Nearest Neighbour Classifier Model using the titanic dataset in order to classify what sorts of people were likely to survive the titanic.
+The first one is A K-Nearest Neighbour Classifier Model using the titanic dataset in order to classify what sorts of people were likely to survive the titanic.
 
-ii.) A Naive Bayes Classifier model in order to classify an e-mail as spam or not.
+The 2nd one is A Naive Bayes Classifier model using a spambase dataset in order to classify an e-mail as spam or not.
 
 ## Description
 There are 2 notebooks for each of the different models
