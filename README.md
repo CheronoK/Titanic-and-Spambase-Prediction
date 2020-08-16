@@ -1,6 +1,7 @@
 # WEEK-9-IP
 
 This is a project that entails building 2 models;
+
 i.) A K-Nearest Neighbour Classifier Model using the titanic dataset in order to classify what sorts of people were likely to survive the titanic.
 
 ii.) A Naive Bayes Classifier model in order to classify an e-mail as spam or not.
