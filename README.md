@@ -1,6 +1,6 @@
 # WEEK-9-IP
 
-This is a project that entails building 2 models;
+This is a project that entails building of 2 models;
 
 The first one is A K-Nearest Neighbour Classifier Model using the titanic dataset in order to classify what sorts of people were likely to survive the titanic.
 
