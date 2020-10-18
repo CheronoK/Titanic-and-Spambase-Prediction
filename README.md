@@ -1,4 +1,4 @@
-# WEEK-9-IP
+# Titanic Classification and E-mail Classification
 
 This is a project that entails building of 2 models;
 
@@ -15,8 +15,12 @@ Open the notebook using the Google Colaboratory link provided, copy it on your d
 ## Installation
 Install Python and it's libraries in order to understand this project and use the models.
 
+Link to the titanic dataset: Train[https://archive.org/download/train5_202002/train%20%285%29.csv], Test[https://archive.org/download/test1_202002/test%20%281%29.csv]
+
+Link to the spambase dataset[https://archive.org/download/spambase_csv/spambase_csv.csv]
+
 ## Contributing
-This Project was done by Cherono Kibet as an assignment project during her time as a Moringa School Student.
+This Project was done by Cherono Kibet.
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
